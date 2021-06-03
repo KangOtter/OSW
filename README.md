@@ -21,4 +21,5 @@
 > "I": Sky <br>
 > "O": Orange <br>
 > "T": Purple <br>
+
 <img src="/image/game scene.png" width="40%" height="30%"></img>
